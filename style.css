@@ -41,3 +41,11 @@
 .judul3 {
   text-align: center;
 }
+
+.prp,
+.prp2,
+.prp3 {
+  margin: 8px;
+  padding: 2px;
+  text-align: justify;
+}
